@@ -7,4 +7,5 @@ Eventbus is a android library that enable the developer easier to communicate be
 Go to your build.gradle (Module:app) and add one dependency in the dependencies section.
 > compile 'org.greenrobot:eventbus:3.0.0'
 
-
+![Screen 1](https://img4.hostingpics.net/pics/151591rsz11.png)
+![Screen 2](https://img4.hostingpics.net/pics/670028rsz12.png)
